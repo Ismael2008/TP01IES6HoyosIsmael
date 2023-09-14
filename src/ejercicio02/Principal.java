@@ -4,7 +4,7 @@ public class Principal {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-		int numeroA = 25;
+		int numeroA = 20;
 		int numeroB = 0;
 		
 		Calculadora calculadora = new Calculadora ();
